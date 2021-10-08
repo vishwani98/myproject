@@ -1,1 +1,2 @@
-print('Hello World')
+import abcd
+abcd.greeting("Teacher")
